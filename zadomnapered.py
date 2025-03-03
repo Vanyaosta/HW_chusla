@@ -4,9 +4,5 @@ druge = chuslo // 1000 % 10
 tretie = chuslo // 100 % 10
 chetverte = chuslo // 10 % 10
 piate = chuslo % 10
-
-print(piate)
-print(chetverte)
-print(tretie)
-print(druge)
-print(perwe)
+resultat = str(piate) + str(chetverte) + str(tretie) + str(druge) + str(perwe)
+print (resultat)
